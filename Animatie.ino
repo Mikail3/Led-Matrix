@@ -1,10 +1,7 @@
-// sources to create this code :
-// https://create.arduino.cc/projecthub/SAnwandter1/programming-8x8-led-matrix-23475a
-// https://www.instructables.com/id/Scrolling-Text-on-a-8x8-LED-Matrix-Using-an-Arduin/
 /*
 * Auteur 1: Mikail Cinar
 * Auteur 2: Rasit Akay
-* Link naar github repository:
+* Link naar github repository :https://github.com/Mikail3/cee-program-LED-MATRIX
 */
 
 //Definiëren van de uitganspinnen
@@ -278,3 +275,7 @@ void displayData(word message) {
   digitalWrite(latchClockPin, LOW);
 
 }
+
+// sources to create this code :
+// https://create.arduino.cc/projecthub/SAnwandter1/programming-8x8-led-matrix-23475a
+// https://www.instructables.com/id/Scrolling-Text-on-a-8x8-LED-Matrix-Using-an-Arduin/
