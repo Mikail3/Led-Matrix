@@ -1,7 +1,11 @@
 // sources to create this code :
 // https://create.arduino.cc/projecthub/SAnwandter1/programming-8x8-led-matrix-23475a
 // https://www.instructables.com/id/Scrolling-Text-on-a-8x8-LED-Matrix-Using-an-Arduin/
-
+/*
+* Auteur 1: Mikail Cinar
+* Auteur 2: Rasit Akay
+* Link naar github repository:
+*/
 
 //Definiëren van de uitganspinnen
 const int shiftClockPin = 3;  //SH
